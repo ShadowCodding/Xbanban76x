@@ -5,7 +5,7 @@
 
 
 
-## 📜 🇫🇷 My recent French videos
+## 📜 Mes dernières vidéos youtube :
 <img src="https://img.shields.io/youtube/channel/subscribers/UCOkBH5i1t1hO4Tcu4aP-1KQ?style=for-the-badge"></img>
 <table>
 
@@ -81,7 +81,7 @@
 </tr>
 </table>
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Voici mes dérnières sorties sur GitHub :
 
 - [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (today)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
@@ -91,13 +91,7 @@
 - [Xbanban76x/Server-MySQL](https://github.com/Xbanban76x/Server-MySQL) -  (2 months ago)
 
 #### 🌱 My latest projects
-
-- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) - 
-- [Xbanban76x/Template](https://github.com/Xbanban76x/Template) - 
-- [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) - 
-- [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) - 
-- [Xbanban76x/xDrugs](https://github.com/Xbanban76x/xDrugs) - 
-- [Xbanban76x/Server-MySQL](https://github.com/Xbanban76x/Server-MySQL) - 
+-Coucou
 
 
 #### 🔭 Latest releases I've contributed to
