@@ -25,7 +25,7 @@
 {{- end}}
 
 #### 🌱 My latest projects
--Coucou
+-Coucou c moi
 
 
 #### 🔭 Latest releases I've contributed to
