@@ -44,7 +44,7 @@
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
+#### 💬 Informations :
 
 Merci pour tout votre soutien n'hésitez pas a rejoindre le discord !
 
