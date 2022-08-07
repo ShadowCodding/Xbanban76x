@@ -90,19 +90,15 @@
 - [Xbanban76x/xDrugs](https://github.com/Xbanban76x/xDrugs) -  (1 month ago)
 - [Xbanban76x/Server-MySQL](https://github.com/Xbanban76x/Server-MySQL) -  (2 months ago)
 
-#### 🌱 My latest projects
--Coucou c moi
+#### 🌱Mes prochains projet :
+- Concessionnaire V2
+- Job Gouvernement V1
+- ...
 
-
-#### 🔭 Latest releases I've contributed to
-
-
-#### 🔨 My recent Pull Requests
-
-
-
-#### 📓 Gists I wrote
-
+#### 🔨 Mes meilleurs projets :
+- Concessionnaire V1
+- PoliceJob V2
+- Toute ces créations son dispo sur mon Discord : https://discord.gg/Xvbgdqpyye
 
 #### ⭐ Recent Stars
 
@@ -124,11 +120,11 @@
 
 #### 💬 Feedback
 
-Say Hello, I don't bite (much)!
+Merci pour tout votre soutien n'hésitez pas a rejoindre le discord !
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/@kodapsacademy
-- Blog  🇫🇷: https://kodaps.fr
+- Discord: https://discord.gg/Xvbgdqpyye
+- Discord MP: Xbanban76x#6941
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
