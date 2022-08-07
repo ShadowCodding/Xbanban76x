@@ -81,7 +81,7 @@
 </tr>
 </table>
 
-#### 👷 Voici mes dérnières sorties sur GitHub :
+#### 👷 Voici mes dernières sorties sur GitHub :
 
 - [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (today)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
@@ -100,7 +100,7 @@
 - PoliceJob V2
 - Toute ces créations son dispo sur mon Discord : https://discord.gg/Xvbgdqpyye
 
-#### ⭐ Recent Stars
+#### ⭐ Star Repositories :
 
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
@@ -109,10 +109,7 @@
 - [PABLO-1610/astrarp_core](https://github.com/PABLO-1610/astrarp_core) - AstraRP Fivem server core working with ESX framework (8 months ago)
 - [PABLO-1610/zAdmin](https://github.com/PABLO-1610/zAdmin) - Powerfull admin menu that works with ESX. (11 months ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
-#### 👯 Check out some of my recent followers
+#### 👯 Dernièr followers :
 
 - [jessy760](https://github.com/jessy760)
 - [lologaming2307](https://github.com/lologaming2307)
@@ -122,9 +119,7 @@
 
 Merci pour tout votre soutien n'hésitez pas a rejoindre le discord !
 
-#### 📫 How to reach me
+#### 📫 Me contacter : 
 
 - Discord: https://discord.gg/Xvbgdqpyye
 - Discord MP: Xbanban76x#6941
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
