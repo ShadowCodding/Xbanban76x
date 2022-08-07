@@ -5,7 +5,7 @@
 
 
 
-## 📜 🇫🇷 My recent French videos
+## 📜 Mes dernières vidéos youtube :
 <img src="https://img.shields.io/youtube/channel/subscribers/UCOkBH5i1t1hO4Tcu4aP-1KQ?style=for-the-badge"></img>
 <table>
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCOkBH5i1t1hO4Tcu4aP-1KQ" 10}}
@@ -19,15 +19,13 @@
 {{- end}}
 </table>
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Voici mes dérnières sorties sur GitHub :
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+-Coucou
 
 
 #### 🔭 Latest releases I've contributed to
