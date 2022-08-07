@@ -19,7 +19,7 @@
 {{- end}}
 </table>
 
-#### 👷 Voici mes dérnières sorties sur GitHub :
+#### 👷 Voici mes dernières sorties sur GitHub :
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -34,17 +34,12 @@
 - PoliceJob V2
 - Toute ces créations son dispo sur mon Discord : https://discord.gg/Xvbgdqpyye
 
-#### ⭐ Recent Stars
+#### ⭐ Star Repositories :
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 👯 Check out some of my recent followers
+#### 👯 Dernièr followers :
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
@@ -53,9 +48,7 @@
 
 Merci pour tout votre soutien n'hésitez pas a rejoindre le discord !
 
-#### 📫 How to reach me
+#### 📫 Me contacter : 
 
 - Discord: https://discord.gg/Xvbgdqpyye
 - Discord MP: Xbanban76x#6941
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
