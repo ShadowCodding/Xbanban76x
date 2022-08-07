@@ -135,29 +135,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 day ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 month ago)
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
-- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 months ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (2 months ago)
-- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (6 months ago)
-- [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (7 months ago)
-- [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) -  (7 months ago)
+- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (today)
+- [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
+- [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) -  (1 month ago)
+- [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
+- [Xbanban76x/xDrugs](https://github.com/Xbanban76x/xDrugs) -  (1 month ago)
+- [Xbanban76x/Server-MySQL](https://github.com/Xbanban76x/Server-MySQL) -  (2 months ago)
 
 #### 🌱 My latest projects
 
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) - 
-- [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) - 
-- [Gosev/TestRepo](https://github.com/Gosev/TestRepo) - 
-- [Gosev/forestry-demo](https://github.com/Gosev/forestry-demo) - 
-- [Gosev/KodapsStarter](https://github.com/Gosev/KodapsStarter) - Repo &#34;starter kit&#34; pour commencer à utiliser Corona
-- [Gosev/CoronaApps](https://github.com/Gosev/CoronaApps) - Apprenez à coder des applications iOS et Android avec Corona
-- [Gosev/nomore_noless](https://github.com/Gosev/nomore_noless) - 
+- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) - 
+- [Xbanban76x/Template](https://github.com/Xbanban76x/Template) - 
+- [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) - 
+- [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) - 
+- [Xbanban76x/xDrugs](https://github.com/Xbanban76x/xDrugs) - 
+- [Xbanban76x/Server-MySQL](https://github.com/Xbanban76x/Server-MySQL) - 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.10](https://github.com/Kodaps/faker/releases/tag/0.0.10), 1 day ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
@@ -165,21 +161,24 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (1 year ago)
-- [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (1 year ago)
-- [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (2 years ago)
-- [](https://gist.github.com/a144834b9542ab523a10) (6 years ago)
 
 #### ⭐ Recent Stars
 
-- [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (7 years ago)
-- [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (10 years ago)
+- [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
+- [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
+- [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (1 month ago)
+- [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (2 months ago)
+- [PABLO-1610/astrarp_core](https://github.com/PABLO-1610/astrarp_core) - AstraRP Fivem server core working with ESX framework (8 months ago)
+- [PABLO-1610/zAdmin](https://github.com/PABLO-1610/zAdmin) - Powerfull admin menu that works with ESX. (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
 #### 👯 Check out some of my recent followers
 
+- [jessy760](https://github.com/jessy760)
+- [lologaming2307](https://github.com/lologaming2307)
+- [commander-de-lappocalyspe](https://github.com/commander-de-lappocalyspe)
 
 #### 💬 Feedback
 
