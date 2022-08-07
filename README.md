@@ -115,7 +115,7 @@
 - [lologaming2307](https://github.com/lologaming2307)
 - [commander-de-lappocalyspe](https://github.com/commander-de-lappocalyspe)
 
-#### 💬 Feedback
+#### 💬 Informations :
 
 Merci pour tout votre soutien n'hésitez pas a rejoindre le discord !
 
