@@ -3,10 +3,29 @@
 ## Hi there 👋
 
 
-## 📜 🇫🇷 My recent French videos
-<img src="https://img.shields.io/youtube/channel/subscribers/UCOkBH5i1t1hO4Tcu4aP-1KQ?style=for-the-badge"></img>
+## 📜 🇬🇧 My recent blog posts
+{{range rss "https://medium.com/feed/@gosev" 10}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+## 📽 🇬🇧 My recent English videos
+<img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
 <table>
-{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCOkBH5i1t1hO4Tcu4aP-1KQ" 10}}
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UC2DOovF-OjIQ6nHClUyLKKQ" 5}}
+<tr>
+<td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
+<td>
+<a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}}) <br/>
+<img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img> 
+</td>
+</tr>
+{{- end}}
+</table>
+
+## 📜 🇫🇷 My recent French videos
+<img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
+<table>
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 10}}
 <tr>
 <td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
 <td>
