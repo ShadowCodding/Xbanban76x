@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (today)
+- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (1 day ago)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) -  (1 month ago)
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
@@ -104,7 +104,7 @@
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (1 month ago)
 - [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (2 months ago)
-- [PABLO-1610/astrarp_core](https://github.com/PABLO-1610/astrarp_core) - AstraRP Fivem server core working with ESX framework (8 months ago)
+- [PABLO-1610/astrarp_core](https://github.com/PABLO-1610/astrarp_core) - AstraRP Fivem server core working with ESX framework (9 months ago)
 - [PABLO-1610/zAdmin](https://github.com/PABLO-1610/zAdmin) - Powerfull admin menu that works with ESX. (11 months ago)
 
 #### 👯 Dernièr followers :
