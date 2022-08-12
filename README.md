@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (4 days ago)
+- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (5 days ago)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) -  (1 month ago)
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
@@ -100,7 +100,7 @@
 
 #### ⭐ Star Repositories :
 
-- [Xbanban76x/police](https://github.com/Xbanban76x/police) -  (3 days ago)
+- [Xbanban76x/police](https://github.com/Xbanban76x/police) -  (4 days ago)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (2 months ago)
