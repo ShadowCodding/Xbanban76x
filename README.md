@@ -105,8 +105,8 @@
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (2 months ago)
 - [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (2 months ago)
-- [PABLO-1610/astrarp_core](https://github.com/PABLO-1610/astrarp_core) - AstraRP Fivem server core working with ESX framework (9 months ago)
-- [PABLO-1610/zAdmin](https://github.com/PABLO-1610/zAdmin) - Powerfull admin menu that works with ESX. (11 months ago)
+- [PabloCodingg/astrarp_core](https://github.com/PabloCodingg/astrarp_core) - AstraRP Fivem server core working with ESX framework (9 months ago)
+- [PabloCodingg/zAdmin](https://github.com/PabloCodingg/zAdmin) - Powerfull admin menu that works with ESX. (11 months ago)
 
 #### 👯 Dernièr followers :
 
