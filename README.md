@@ -81,6 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
+- [Xbanban76x/RageUI-V2](https://github.com/Xbanban76x/RageUI-V2) -  (today)
 - [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (6 days ago)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) -  (1 month ago)
