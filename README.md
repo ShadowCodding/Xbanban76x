@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nwlfUdOb29o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nwlfUdOb29o">[TUTO] Installer une base FiveM sur un hébergeur</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=nwlfUdOb29o">[TUTO] Installer une base FiveM sur un hébergeur</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/nwlfUdOb29o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (5 days ago)
+- [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (6 days ago)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) -  (1 month ago)
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
@@ -100,7 +100,7 @@
 
 #### ⭐ Star Repositories :
 
-- [Xbanban76x/police](https://github.com/Xbanban76x/police) -  (4 days ago)
+- [Xbanban76x/police](https://github.com/Xbanban76x/police) -  (5 days ago)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (2 months ago)
