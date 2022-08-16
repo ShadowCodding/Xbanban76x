@@ -38,21 +38,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/CeLDYC6ihUI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=CeLDYC6ihUI">[TUTO] - TUTO COMPLET EN RageUI V1</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=CeLDYC6ihUI">[TUTO] - TUTO COMPLET EN RageUI V1</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/CeLDYC6ihUI?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/TsfcQ8YYocg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=TsfcQ8YYocg">[Preview] Drugs Système</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=TsfcQ8YYocg">[Preview] Drugs Système</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/TsfcQ8YYocg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Sx47qNIdg5Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Sx47qNIdg5Q">[Preview] - MenuF5</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=Sx47qNIdg5Q">[Preview] - MenuF5</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/Sx47qNIdg5Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,12 +81,12 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [Xbanban76x/RageUI-V2](https://github.com/Xbanban76x/RageUI-V2) -  (1 day ago)
+- [Xbanban76x/RageUI-V2](https://github.com/Xbanban76x/RageUI-V2) -  (2 days ago)
 - [Xbanban76x/ALL-TUTO](https://github.com/Xbanban76x/ALL-TUTO) -  (1 week ago)
 - [Xbanban76x/xBank](https://github.com/Xbanban76x/xBank) -  (1 month ago)
 - [Xbanban76x/xVigneron-tuto](https://github.com/Xbanban76x/xVigneron-tuto) -  (1 month ago)
 - [Xbanban76x/Template](https://github.com/Xbanban76x/Template) -  (1 month ago)
-- [Xbanban76x/xDrugs](https://github.com/Xbanban76x/xDrugs) -  (1 month ago)
+- [Xbanban76x/xDrugs](https://github.com/Xbanban76x/xDrugs) -  (2 months ago)
 - [Xbanban76x/Server-MySQL](https://github.com/Xbanban76x/Server-MySQL) -  (2 months ago)
 
 #### 🌱Mes prochains projet :
