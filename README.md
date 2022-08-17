@@ -31,7 +31,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/aSDazkA2mwE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=aSDazkA2mwE">[PAID] - [RageUI] Cardealer Job | [FiveM]</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=aSDazkA2mwE">[PAID] - [RageUI] Cardealer Job | [FiveM]</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/aSDazkA2mwE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (2 days ago)
+- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (3 days ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (1 week ago)
 - [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (1 week ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (1 month ago)
