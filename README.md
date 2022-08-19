@@ -102,6 +102,7 @@
 
 #### ⭐ Star Repositories :
 
+- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (today)
 - [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (1 week ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (1 month ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (1 month ago)
