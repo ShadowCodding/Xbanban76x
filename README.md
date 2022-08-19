@@ -24,7 +24,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/lmLtCkwaZZg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=lmLtCkwaZZg">[TUTO] - COMMENT CRÉER UN JOB SUR  FIVEM - [RageUI] - #1</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=lmLtCkwaZZg">[TUTO] - COMMENT CRÉER UN JOB SUR  FIVEM - [RageUI] - #1</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/lmLtCkwaZZg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (4 days ago)
+- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (5 days ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (1 week ago)
 - [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (1 week ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (1 month ago)
