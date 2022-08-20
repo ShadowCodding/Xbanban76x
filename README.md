@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nwlfUdOb29o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nwlfUdOb29o">[TUTO] Installer une base FiveM sur un hébergeur</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=nwlfUdOb29o">[TUTO] Installer une base FiveM sur un hébergeur</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/nwlfUdOb29o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,13 +81,13 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (today)
-- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (5 days ago)
+- [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (1 day ago)
+- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (6 days ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (1 week ago)
 - [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (1 week ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (1 month ago)
 - [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (1 month ago)
-- [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (1 month ago)
+- [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
 - [ShadowCodding/xDrugs](https://github.com/ShadowCodding/xDrugs) -  (2 months ago)
 - [ShadowCodding/Server-MySQL](https://github.com/ShadowCodding/Server-MySQL) -  (2 months ago)
 
@@ -103,10 +103,10 @@
 
 #### ⭐ Star Repositories :
 
-- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (today)
+- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (1 day ago)
 - [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (1 week ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (1 month ago)
-- [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (1 month ago)
+- [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (2 months ago)
 - [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (2 months ago)
 - [PabloCodingg/astrarp_core](https://github.com/PabloCodingg/astrarp_core) - AstraRP Fivem server core working with ESX framework (9 months ago)
