@@ -8,6 +8,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/0TwHOPcpwgw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/0TwHOPcpwgw?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/e3mnQGbFKQo/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=e3mnQGbFKQo">[PAID] sAdmin RageUI | Exclusive Admin Menu | 0.00ms</a> (2 days ago) <br/>
@@ -68,13 +75,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=df2e3xjHORM">[PAID] - JOB POLICE | 0.03ms | V1 | Fivem</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/df2e3xjHORM?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/S5L0XHE9R4w/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=S5L0XHE9R4w">[TUTO] - COMMENT FAIRE LES REQUÊTES SQL (pas pour débutant)</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/S5L0XHE9R4w?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
