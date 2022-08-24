@@ -10,14 +10,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0TwHOPcpwgw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/0TwHOPcpwgw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/e3mnQGbFKQo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=e3mnQGbFKQo">[PAID] sAdmin RageUI | Exclusive Admin Menu | 0.00ms</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=e3mnQGbFKQo">[PAID] sAdmin RageUI | Exclusive Admin Menu | 0.00ms</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/e3mnQGbFKQo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,8 +81,8 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (today)
-- [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (3 days ago)
+- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (1 day ago)
+- [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (4 days ago)
 - [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (1 week ago)
 - [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (2 weeks ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (2 weeks ago)
@@ -90,7 +90,7 @@
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
 - [ShadowCodding/xDrugs](https://github.com/ShadowCodding/xDrugs) -  (2 months ago)
-- [ShadowCodding/Server-MySQL](https://github.com/ShadowCodding/Server-MySQL) -  (2 months ago)
+- [ShadowCodding/Server-MySQL](https://github.com/ShadowCodding/Server-MySQL) -  (3 months ago)
 
 #### 🌱Mes prochains projet :
 - Concessionnaire V2
@@ -104,7 +104,7 @@
 
 #### ⭐ Star Repositories :
 
-- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (4 days ago)
+- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (5 days ago)
 - [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (2 weeks ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
