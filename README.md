@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0TwHOPcpwgw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/0TwHOPcpwgw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -24,7 +24,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nwlfUdOb29o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nwlfUdOb29o">[TUTO] Installer une base FiveM sur un hébergeur</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=nwlfUdOb29o">[TUTO] Installer une base FiveM sur un hébergeur</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/nwlfUdOb29o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,8 +81,8 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (3 days ago)
-- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (5 days ago)
+- [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (4 days ago)
+- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (6 days ago)
 - [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (2 weeks ago)
 - [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (3 weeks ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (3 weeks ago)
@@ -105,7 +105,7 @@
 #### ⭐ Star Repositories :
 
 - [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (1 week ago)
-- [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (2 weeks ago)
+- [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (3 weeks ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (2 months ago)
