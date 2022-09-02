@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/k2ovE8A9acs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/k2ovE8A9acs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -104,7 +104,7 @@
 
 #### ⭐ Star Repositories :
 
-- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (1 week ago)
+- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (2 weeks ago)
 - [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (3 weeks ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
