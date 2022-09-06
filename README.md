@@ -10,14 +10,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/k2ovE8A9acs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/k2ovE8A9acs?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/0TwHOPcpwgw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/0TwHOPcpwgw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -66,7 +66,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/df2e3xjHORM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=df2e3xjHORM">[PAID] - JOB POLICE | 0.03ms | V1 | Fivem</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=df2e3xjHORM">[PAID] - JOB POLICE | 0.03ms | V1 | Fivem</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/df2e3xjHORM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -82,10 +82,10 @@
 #### 👷 Voici mes dernières sorties sur GitHub :
 
 - [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (1 week ago)
-- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (1 week ago)
+- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (2 weeks ago)
 - [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (3 weeks ago)
-- [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (4 weeks ago)
-- [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (4 weeks ago)
+- [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (1 month ago)
+- [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (1 month ago)
 - [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (2 months ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
