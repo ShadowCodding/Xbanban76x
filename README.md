@@ -24,7 +24,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/e3mnQGbFKQo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=e3mnQGbFKQo">[PAID] sAdmin RageUI | Exclusive Admin Menu | 0.00ms</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=e3mnQGbFKQo">[PAID] sAdmin RageUI | Exclusive Admin Menu | 0.00ms</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/e3mnQGbFKQo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/lmLtCkwaZZg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=lmLtCkwaZZg">[TUTO] - COMMENT CRÉER UN JOB SUR  FIVEM - [RageUI] - #1</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=lmLtCkwaZZg">[TUTO] - COMMENT CRÉER UN JOB SUR  FIVEM - [RageUI] - #1</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/lmLtCkwaZZg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (today)
+- [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (1 day ago)
 - [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (3 weeks ago)
 - [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (3 weeks ago)
 - [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (1 month ago)
@@ -104,7 +104,7 @@
 
 #### ⭐ Star Repositories :
 
-- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (4 weeks ago)
+- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (1 month ago)
 - [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (1 month ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (2 months ago)
