@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/MGvWxraucy0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=MGvWxraucy0">[TUTO] Comment créer un menu F5 en RageUI V2 sur FiveM - #1</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=MGvWxraucy0">[TUTO] Comment créer un menu F5 en RageUI V2 sur FiveM - #1</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/MGvWxraucy0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -24,14 +24,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0TwHOPcpwgw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/0TwHOPcpwgw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/e3mnQGbFKQo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=e3mnQGbFKQo">[PAID] sAdmin RageUI | Exclusive Admin Menu | 0.00ms</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=e3mnQGbFKQo">[PAID] sAdmin RageUI | Exclusive Admin Menu | 0.00ms</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/e3mnQGbFKQo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9qi8BX7p8tY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9qi8BX7p8tY">[TUTO] - COMMENT CRÉER SA BASE TEMPLATE | [FiveM]</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=9qi8BX7p8tY">[TUTO] - COMMENT CRÉER SA BASE TEMPLATE | [FiveM]</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/9qi8BX7p8tY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,14 +81,14 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (2 days ago)
+- [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (3 days ago)
 - [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (3 weeks ago)
-- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (3 weeks ago)
+- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (4 weeks ago)
 - [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (1 month ago)
 - [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (1 month ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (1 month ago)
-- [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
-- [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (2 months ago)
+- [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (3 months ago)
+- [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (3 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (3 months ago)
 - [ShadowCodding/xDrugs](https://github.com/ShadowCodding/xDrugs) -  (3 months ago)
 
@@ -106,7 +106,7 @@
 
 - [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (1 month ago)
 - [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (1 month ago)
-- [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (2 months ago)
+- [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (3 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (3 months ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (3 months ago)
 - [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (3 months ago)
