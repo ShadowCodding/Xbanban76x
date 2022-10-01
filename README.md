@@ -17,7 +17,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/k2ovE8A9acs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/k2ovE8A9acs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (1 week ago)
+- [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (2 weeks ago)
 - [ShadowCodding/Base_SDev](https://github.com/ShadowCodding/Base_SDev) - Base complete with ESX (1 month ago)
 - [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (1 month ago)
 - [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (1 month ago)
