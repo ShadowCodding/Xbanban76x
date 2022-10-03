@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/MGvWxraucy0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=MGvWxraucy0">[TUTO] Comment créer un menu F5 en RageUI V2 sur FiveM - #1</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=MGvWxraucy0">[TUTO] Comment créer un menu F5 en RageUI V2 sur FiveM - #1</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/MGvWxraucy0?style=flat-square"> </img> 
 </td>
 </tr>
