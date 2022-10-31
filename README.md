@@ -109,7 +109,7 @@
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (4 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (4 months ago)
 - [7MLock/Item_Builder](https://github.com/7MLock/Item_Builder) - Ce script est un [remake] du script de [h4ci] (4 months ago)
-- [NextCitizens/ncs_core](https://github.com/NextCitizens/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (5 months ago)
+- [PabloCodingg/ncs_core](https://github.com/PabloCodingg/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (5 months ago)
 - [PabloCodingg/astrarp_core](https://github.com/PabloCodingg/astrarp_core) - AstraRP Fivem server core working with ESX framework (11 months ago)
 - [PabloCodingg/zAdmin](https://github.com/PabloCodingg/zAdmin) - Powerfull admin menu that works with ESX. (1 year ago)
 
