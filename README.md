@@ -36,13 +36,6 @@
 </td>
 </tr>
 <tr>
-<td><img src="https://img.youtube.com/vi/nwlfUdOb29o/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=nwlfUdOb29o">[TUTO] Installer une base FiveM sur un hébergeur</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/nwlfUdOb29o?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
 <td><img src="https://img.youtube.com/vi/9qi8BX7p8tY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=9qi8BX7p8tY">[TUTO] - COMMENT CRÉER SA BASE TEMPLATE | [FiveM]</a> (4 months ago) <br/>
@@ -75,6 +68,13 @@
 <td>
 <a href="https://www.youtube.com/watch?v=df2e3xjHORM">[PAID] - JOB POLICE | 0.03ms | V1 | Fivem</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/df2e3xjHORM?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/S5L0XHE9R4w/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=S5L0XHE9R4w">[TUTO] - COMMENT FAIRE LES REQUÊTES SQL (pas pour débutant)</a> (5 months ago) <br/>
+<img src="https://img.shields.io/youtube/views/S5L0XHE9R4w?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
