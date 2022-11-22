@@ -73,7 +73,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/S5L0XHE9R4w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=S5L0XHE9R4w">[TUTO] - COMMENT FAIRE LES REQUÊTES SQL (pas pour débutant)</a> (5 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=S5L0XHE9R4w">[TUTO] - COMMENT FAIRE LES REQUÊTES SQL (pas pour débutant)</a> (6 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/S5L0XHE9R4w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -90,7 +90,7 @@
 - [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (5 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (5 months ago)
 - [ShadowCodding/xDrugs](https://github.com/ShadowCodding/xDrugs) -  (5 months ago)
-- [ShadowCodding/Server-MySQL](https://github.com/ShadowCodding/Server-MySQL) -  (5 months ago)
+- [ShadowCodding/Server-MySQL](https://github.com/ShadowCodding/Server-MySQL) -  (6 months ago)
 
 #### 🌱Mes prochains projet :
 - Concessionnaire V2
