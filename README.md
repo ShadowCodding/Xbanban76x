@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LVp681IrveY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LVp681IrveY">[PRÉSENTATION] - Creations de scripts FiveM</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=LVp681IrveY">[PRÉSENTATION] - Creations de scripts FiveM</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/LVp681IrveY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -105,7 +105,7 @@
 #### ⭐ Star Repositories :
 
 - [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (3 months ago)
-- [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (3 months ago)
+- [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (4 months ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (5 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (5 months ago)
 - [PabloCodingg/ncs_core](https://github.com/PabloCodingg/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (6 months ago)
