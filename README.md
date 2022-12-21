@@ -31,7 +31,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0TwHOPcpwgw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=0TwHOPcpwgw">[TUTO] - Comment créer un shop en RageUI V2 sur FiveM</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/0TwHOPcpwgw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -82,7 +82,7 @@
 #### 👷 Voici mes dernières sorties sur GitHub :
 
 - [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (3 months ago)
-- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (3 months ago)
+- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (4 months ago)
 - [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (4 months ago)
 - [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (4 months ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (4 months ago)
