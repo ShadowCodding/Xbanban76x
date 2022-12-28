@@ -81,16 +81,10 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/sPersonalMenu](https://github.com/ShadowCodding/sPersonalMenu) -  (3 months ago)
-- [ShadowCodding/Shop-RageUI-V2](https://github.com/ShadowCodding/Shop-RageUI-V2) -  (4 months ago)
-- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (4 months ago)
-- [ShadowCodding/ALL-TUTO](https://github.com/ShadowCodding/ALL-TUTO) -  (4 months ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (4 months ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (6 months ago)
 - [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (6 months ago)
-- [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (6 months ago)
 - [ShadowCodding/xDrugs](https://github.com/ShadowCodding/xDrugs) -  (6 months ago)
-- [ShadowCodding/Server-MySQL](https://github.com/ShadowCodding/Server-MySQL) -  (7 months ago)
 
 #### 🌱Mes prochains projet :
 - Concessionnaire V2
