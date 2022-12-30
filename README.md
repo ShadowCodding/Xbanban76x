@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/hF7i2YRCiVI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=hF7i2YRCiVI">Comment héberger son serveur FiveM en 2023 | MC&#39;Heberg</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=hF7i2YRCiVI">Comment héberger son serveur FiveM en 2023 | MC&#39;Heberg</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/hF7i2YRCiVI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -31,7 +31,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/k2ovE8A9acs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=k2ovE8A9acs">[PREVIEW] - POLICEJOB V2 - FIVEM</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/k2ovE8A9acs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,6 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
+- [ShadowCodding/basic_blanchimment](https://github.com/ShadowCodding/basic_blanchimment) - Petit script de blanchimment fait en live sur twitch (today)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (4 months ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (6 months ago)
 - [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (6 months ago)
