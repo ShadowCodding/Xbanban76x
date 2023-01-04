@@ -81,6 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
+- [ShadowCodding/tutorial_bank](https://github.com/ShadowCodding/tutorial_bank) - Ce script a pour but de vous aidez a utiliser mon script de banque avec des exemples! (today)
 - [ShadowCodding/basic_blanchimment](https://github.com/ShadowCodding/basic_blanchimment) - Petit script de blanchimment fait en live sur twitch (5 days ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (5 months ago)
 - [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (6 months ago)
