@@ -8,6 +8,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/htHsBoXrFfQ/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=htHsBoXrFfQ">[PREVIEW] - Banking system</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/htHsBoXrFfQ?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/hF7i2YRCiVI/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=hF7i2YRCiVI">Comment héberger son serveur FiveM en 2023 | MC&#39;Heberg</a> (1 week ago) <br/>
@@ -68,13 +75,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=aSDazkA2mwE">[PAID] - [RageUI] Cardealer Job | [FiveM]</a> (6 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/aSDazkA2mwE?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/CeLDYC6ihUI/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=CeLDYC6ihUI">[TUTO] - TUTO COMPLET EN RageUI V1</a> (6 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/CeLDYC6ihUI?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
