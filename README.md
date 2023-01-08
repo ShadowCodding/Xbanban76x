@@ -81,7 +81,8 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (5 months ago)
+- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (4 months ago)
+- [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (6 months ago)
 
 #### 🌱Mes prochains projet :
 - Concessionnaire V2
