@@ -81,12 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/tutorial_bank](https://github.com/ShadowCodding/tutorial_bank) - Ce script a pour but de vous aidez a utiliser mon script de banque avec des exemples! (3 days ago)
-- [ShadowCodding/basic_blanchimment](https://github.com/ShadowCodding/basic_blanchimment) - Petit script de blanchimment fait en live sur twitch (1 week ago)
 - [ShadowCodding/Xbanban76x](https://github.com/ShadowCodding/Xbanban76x) -  (5 months ago)
-- [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (6 months ago)
-- [ShadowCodding/xVigneron-tuto](https://github.com/ShadowCodding/xVigneron-tuto) -  (6 months ago)
-- [ShadowCodding/xDrugs](https://github.com/ShadowCodding/xDrugs) -  (6 months ago)
 
 #### 🌱Mes prochains projet :
 - Concessionnaire V2
@@ -100,9 +95,6 @@
 
 #### ⭐ Star Repositories :
 
-- [ShadowCodding/adminmenu](https://github.com/ShadowCodding/adminmenu) -  (4 months ago)
-- [ShadowCodding/police](https://github.com/ShadowCodding/police) -  (5 months ago)
-- [ShadowCodding/xBank](https://github.com/ShadowCodding/xBank) -  (6 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (6 months ago)
 - [PabloCodingg/ncs_core](https://github.com/PabloCodingg/ncs_core) - A powerful, optimized but above all open-source FiveM RolePlay core under developement by the community, for the community. (7 months ago)
 - [PabloCodingg/astrarp_core](https://github.com/PabloCodingg/astrarp_core) - AstraRP Fivem server core working with ESX framework (1 year ago)
