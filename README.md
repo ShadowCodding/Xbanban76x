@@ -10,7 +10,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/htHsBoXrFfQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=htHsBoXrFfQ">[PAID] - Système de banque | FiveM</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=htHsBoXrFfQ">[PAID] - Système de banque | FiveM</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/htHsBoXrFfQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -81,7 +81,7 @@
 
 #### 👷 Voici mes dernières sorties sur GitHub :
 
-- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (4 months ago)
+- [ShadowCodding/RageUI-V2](https://github.com/ShadowCodding/RageUI-V2) -  (5 months ago)
 - [ShadowCodding/Template](https://github.com/ShadowCodding/Template) -  (6 months ago)
 
 #### 🌱Mes prochains projet :
